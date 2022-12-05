@@ -1,0 +1,1 @@
+<div class="bg-secondary text-white rounded text-center rounded-circle" style="max-width: 30px;">U</div>
